@@ -1,0 +1,33 @@
+body {
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    background-color:rgb(180, 201, 240);
+    text-align: center;
+}
+
+#heading {
+    font-size: 45px;
+    color:  rgb(21, 31, 175);
+    text-decoration: underline rgb(5, 22, 70) wavy 2px;
+}
+
+.text_images_and_result {
+    font-size: 30px;
+    background-color:rgb(151, 174, 236);
+    border-radius: 25px;
+    /* margin: 0px 200px 0px 200px; */ 
+    width: 700px;
+    box-shadow: 5px 5px 18px rgb(53, 97, 180);
+    color: rgb(35, 6, 196);
+}
+img {
+    height: 400px;
+    width: 380px;
+}
+
+.result {
+    background-color: white;
+    border-radius: 25px;
+    margin: 25px;
+}
